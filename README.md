@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KiraraSan&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats">
+  <br>
   <img src="https://streak-stats.demolab.com?user=KiraraSan&theme=tokyonight" alt="GitHub Streak">
 </p>
 
