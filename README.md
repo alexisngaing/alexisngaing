@@ -1,5 +1,14 @@
 ## 👋 Hi. Alex here!
 
+<p>Second year CS student at Atma Jaya Yogyakarta University</p>
+<p>Something I like besides coding:</p>
+<ul>
+  <li>Reading</li>
+  <li>Writing</li>
+  <li>Photography</li>
+  <li>Cream cheese bread</li>
+</ul>
+
 ## 📊 GitHub Superpowers
 
 <p align="center">
