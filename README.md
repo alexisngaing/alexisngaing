@@ -1,6 +1,6 @@
 ## 👋 Hi. Alex here!
 
-<p>Second year CS student at Atma Jaya Yogyakarta University</p>
+<p>Second year CS student at Universitas Atma Jaya Yogyakarta</p>
 <p>Something I like besides coding:</p>
 <ul>
   <li>Photography</li>
