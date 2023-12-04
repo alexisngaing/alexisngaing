@@ -6,7 +6,7 @@
   <li>Photography</li>
   <li>Design</li>
   <li>Literature</li>
-  <li>Cream cheese bread</li>
+  <li>Apple pie bread</li>
 </ul>
 
 ## 📊 GitHub Superpowers
